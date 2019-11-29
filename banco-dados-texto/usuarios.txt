@@ -1,0 +1,6 @@
+login:nome completo:idade:sexo
+joao:Joao da Silva:45:M
+maria:Maria do Carmo Alves:33:F
+lucia:Lucia de Paula Gomes:46:F
+ana:Ana Paula Santos:58:F
+ze:José Augusto dos Santos:38:M
